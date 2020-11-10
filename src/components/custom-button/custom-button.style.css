@@ -1,0 +1,103 @@
+.custom-button {
+	background: #736fe2;
+	border: none;
+	min-width: 150px;
+	height: 35px;
+	border-radius: 40px;
+	color: #fff;
+	font-size: 14px;
+	font-weight: 500;
+	line-height: 1;
+	border: 1px solid transparent;
+	transition: 0.4s;
+	cursor: pointer;
+}
+/* 
+// &:hover {
+// 	background: none;
+// 	color: #736fe2;
+// 	border: 1px solid #736fe2;
+// }
+// &.custom-button-no-shadow {
+// 	filter: none;
+// }
+// &.custom-button-invert {
+// 	background: #fff;
+// 	color: #736fe2;
+// 	border: 1px solid #736fe2;
+// 	filter: none;
+// 	&:hover {
+// 		background-color: #736fe2;
+// 		color: #fff;
+// 	}
+// }
+// &.custom-material-button {
+// 	font-weight: 600;
+// 	display: flex;
+// 	-moz-box-pack: center;
+// 	justify-content: center;
+// 	-moz-box-align: center;
+// 	align-items: center;
+// 	outline: currentcolor none medium;
+// 	transition: background 0.2s ease 0s;
+// 	white-space: nowrap;
+// 	color: rgba(13, 35, 77, 0.8);
+// 	background-color: rgb(247, 250, 254);
+// 	border-radius: 3px;
+// 	font-size: 12px;
+// 	border: 1px solid rgb(217, 225, 236);
+// 	height: 32px;
+// 	padding-right: 16px;
+// 	padding-left: 16px;
+// 	filter: unset;
+// 	transition: 0.3s;
+// 	&:hover {
+// 		background-color: rgb(240, 243, 247);
+// 		box-shadow: rgba(0, 0, 10, 0.1) 0px 1px 3px;
+// 		color: inherit;
+// 	}
+// }
+
+// &.custom-button-danger {
+// 	background: #fa5873;
+// 	&:hover {
+// 		border-color: #fa5873;
+// 		background: #ed3d5b;
+// 		color: #fff;
+// 	}
+// }
+// &.custom-button-sharpe {
+// 	border-radius: 4px;
+// }
+
+// &.custom-button-active {
+// 	background-color: #736fe2;
+// 	color: #fff;
+// 	&:hover {
+// 		background-color: #0251c9;
+// 	}
+// }
+
+// &.custom-button-with-icon {
+// 	display: flex;
+// 	justify-content: center;
+// 	position: relative;
+// 	display: flex;
+// 	align-items: center;
+// 	svg {
+// 		width: 25px;
+// 		position: absolute;
+// 		left: 25px;
+// 	}
+// }
+// &.custom-button-success {
+// 	background: #26d29e;
+// 	border-color: #26d29e;
+// 	color: #fff;
+// 	&:hover {
+// 		background-color: none;
+// 		background: none;
+// 		color: #26d29e;
+// 		border-color: #26d29e;
+// 	}
+// } */
